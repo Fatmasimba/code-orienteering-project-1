@@ -3,3 +3,4 @@ update vat
 add EU export tax calculations
 add EU import tax calculations
 update EU values
+fix import fee calculation bug
